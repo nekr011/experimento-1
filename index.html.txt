@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> EXPERIMEMTO 1</title>
+</head>
+<body>
+<p>111011 110101 10101010 101101 en verdad esto no tiene sentido lol</p>
+</body>
+<script>
+document.body.style.background = "black";
+document.body.style.color = "White";
+function botón 1() {
+alert("holas");
+}
+</script>
+</html>
